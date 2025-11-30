@@ -1,9 +1,5 @@
 [package]
-<<<<<<< HEAD
-name = "badge_nft"
-=======
-name = "hellopiaui"
->>>>>>> 9dd384cfe5b25b6df1f6403aca4421802f3654c8
+name = "test2"
 edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
@@ -22,11 +18,7 @@ edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 # Override = { local = "../conflicting/version", override = true }
 
 [addresses]
-<<<<<<< HEAD
-badge_nft = "0x0"
-=======
-hellopiaui = "0x0"
->>>>>>> 9dd384cfe5b25b6df1f6403aca4421802f3654c8
+test2 = "0x0"
 
 # Named addresses will be accessible in Move as `@name`. They're also exported:
 # for example, `std = "0x1"` is exported by the Standard Library.
